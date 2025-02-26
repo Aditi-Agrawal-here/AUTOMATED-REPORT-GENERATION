@@ -28,10 +28,10 @@ Key Features:
 
 How It Works:
 
-Read Data – The script loads weather data from weather_data.csv.
-Analyze Data – Computes average temperature, humidity, wind speed, and identifies extreme conditions.
-Generate Visuals – Creates bar charts for temperature and humidity trends and a pie chart for weather condition distribution.
-Export Report – Compiles all insights into a PDF report with graphical representations.
+1) Read Data – The script loads weather data from weather_data.csv.
+2) Analyze Data – Computes average temperature, humidity, wind speed, and identifies extreme conditions.
+3) Generate Visuals – Creates bar charts for temperature and humidity trends and a pie chart for weather condition distribution.
+4) Export Report – Compiles all insights into a PDF report with graphical representations.
 
 Technologies Used:
 
@@ -50,23 +50,23 @@ Installation and Usage:
 
 Check the output:
 
-Bar Chart: Temperature and humidity distribution.
-Pie Chart: Weather condition distribution.
-PDF Report: Final formatted weather analysis report.
+1) Bar Chart: Temperature and humidity distribution.
+2) Pie Chart: Weather condition distribution.
+3) PDF Report: Final formatted weather analysis report.
 
 Output Files:
 
-weather_data.csv – Contains processed weather data.
-temp_humidity_chart.png – Bar chart for temperature and humidity.
-weather_condition_chart.png – Pie chart for weather condition distribution.
-Weather_Report.pdf – Final generated report.
+1) weather_data.csv – Contains processed weather data.
+2) temp_humidity_chart.png – Bar chart for temperature and humidity.
+3) weather_condition_chart.png – Pie chart for weather condition distribution.
+4) Weather_Report.pdf – Final generated report.
 
 Challenges Faced and Learnings:
 
-Handling missing or inconsistent weather data.
-Choosing the best data representation for analysis.
-Formatting a structured and readable PDF report.
-Automating the entire workflow from data processing to report generation.
+1) Handling missing or inconsistent weather data.
+2) Choosing the best data representation for analysis.
+3) Formatting a structured and readable PDF report.
+4) Automating the entire workflow from data processing to report generation.
 
 Conclusion:
 
