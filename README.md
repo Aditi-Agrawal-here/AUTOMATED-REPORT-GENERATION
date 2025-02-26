@@ -57,9 +57,14 @@ Check the output:
 Output Files:
 
 1) weather_data.csv – Contains processed weather data.
-2) temp_humidity_chart.png – Bar chart for temperature and humidity.
-3) weather_condition_chart.png – Pie chart for weather condition distribution.
-4) Weather_Report.pdf – Final generated report.
+2) Weather_Report.pdf – Final generated report.
+3) Bar chart for temperature and humidity.
+
+   ![Image](https://github.com/user-attachments/assets/478bacd9-1267-439d-8de5-0b295fc9b6cc)
+   
+4) Pie chart for weather condition distribution.
+
+   ![Image](https://github.com/user-attachments/assets/9a33fb2f-81f2-4585-9f0b-809de907a9b5)
 
 Challenges Faced and Learnings:
 
